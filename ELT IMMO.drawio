@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2">
+  <diagram id="-54tGKcRfbxltzUaeAWM" name="Page-1">
+    <mxGraphModel dx="2379" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1122" pageHeight="794" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Spécifications fonctionnelles" vertex="1">
+          <mxGeometry height="30" width="210" x="50" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Spécifications non-fonctionnelles (tech)" vertex="1">
+          <mxGeometry height="30" width="320" x="21" y="277" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -" vertex="1">
+          <mxGeometry height="26" width="367" x="-5" y="461" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Estimation data volume" vertex="1">
+          <mxGeometry height="30" width="210" x="47" y="476" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" value="Data ingest logo python requests" vertex="1">
+          <mxGeometry height="200" width="100" x="576" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;" value="Data loading logo S3/Snowflake" vertex="1">
+          <mxGeometry height="200" width="100" x="712" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;direction=south;" value="Data transformation logo dbt" vertex="1">
+          <mxGeometry height="200" width="100" x="849" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" value="Data presentation/viz logo Metabase" vertex="1">
+          <mxGeometry height="200" width="100" x="986" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="CMTP0NTAD6zVw1vhHZeB-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -" vertex="1">
+          <mxGeometry height="26" width="367" x="3" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="CMTP0NTAD6zVw1vhHZeB-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;" value="Data ingest logo python requests" vertex="1">
+          <mxGeometry height="100" width="484" x="590" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="CMTP0NTAD6zVw1vhHZeB-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" value="Data ingest logo python requests" vertex="1">
+          <mxGeometry height="98" width="95" x="425" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="CMTP0NTAD6zVw1vhHZeB-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" value="Data ingest logo python requests" vertex="1">
+          <mxGeometry height="98" width="95" x="425" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="CMTP0NTAD6zVw1vhHZeB-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" value="Data ingest logo python requests" vertex="1">
+          <mxGeometry height="98" width="95" x="425" y="374" as="geometry" />
+        </mxCell>
+        <mxCell id="CMTP0NTAD6zVw1vhHZeB-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" value="Data ingest logo python requests" vertex="1">
+          <mxGeometry height="98" width="95" x="427" y="491" as="geometry" />
+        </mxCell>
+        <mxCell id="CMTP0NTAD6zVw1vhHZeB-18" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Sources" vertex="1">
+          <mxGeometry height="26" width="62" x="436" y="83" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
